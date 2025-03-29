@@ -1,0 +1,133 @@
+{'bozo': False, 'entries': [
+        {'links': [
+                {'length': '22070', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEB0I03C_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-1019013'
+                }
+            ], 'title': '日米の注目経済指標：1月米コアPCE価格指数は前回実績を下回る 見込み', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': '日米の注目経済指標：1月米コアPCE価格指数は前回実績を下回る見込み'
+            }, 'published': '2025-02-22 05: 45: 06', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=22, tm_hour=5, tm_min=45, tm_sec=6, tm_wday=5, tm_yday=53, tm_isdst=0), 'authors': [
+                {'name': 'Fisco'
+                }
+            ], 'author': 'Fisco', 'author_detail': {'name': 'Fisco'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-1019013'
+        },
+        {'links': [
+                {'length': '115780', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/asian_3_M_1440047966.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018982'
+                }
+            ], 'title': '個人投資家・有限亭玉介： チャート重視で押し目買いを狙うべし！先高感のある株で勝負！【FISCOソーシャルレポーター】', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': '個人投資家・有限亭玉介：チャー ト重視で押し目買いを狙うべし！先高感のある株で勝負！【FISCOソーシャルレポーター】'
+            }, 'published': '2025-02-22 01: 15: 05', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=22, tm_hour=1, tm_min=15, tm_sec=5, tm_wday=5, tm_yday=53, tm_isdst=0), 'authors': [
+                {'name': 'Fisco'
+                }
+            ], 'author': 'Fisco', 'author_detail': {'name': 'Fisco'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018982'
+        },
+        {'links': [
+                {'length': '129402', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/asian_2_M_1440047814.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018929'
+                }
+            ], 'title': 'ADR日本株ランキ ング～ソフトバンクGなどほぼ全面安、シカゴは大阪比660円安の32735円～', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': 'ADR日本株ランキング～ソフトバンクGなどほぼ全面安、 シカゴは大阪比660円安の32735円～'
+            }, 'published': '2025-02-21 23: 45: 13', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=23, tm_min=45, tm_sec=13, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Fisco'
+                }
+            ], 'author': 'Fisco', 'author_detail': {'name': 'Fisco'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018929'
+        },
+        {'links': [
+                {'length': '28829', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEA9Q076_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018907'
+                }
+            ], 'title': '米国株式市場は大幅続落、消費者関連指標弱く成長減速を警戒（21日）', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': '米 国株式市場は大幅続落、消費者関連指標弱く成長減速を警戒（21日）'
+            }, 'published': '2025-02-21 23: 00: 07', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=23, tm_min=0, tm_sec=7, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Fisco'
+                }
+            ], 'author': 'Fisco', 'author_detail': {'name': 'Fisco'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018907'
+        },
+        {'links': [
+                {'length': '20487', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEB14010_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018906'
+                }
+            ], 'title': '21日のNY市場は大幅続落', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': '21日のNY市場は大 幅続落'
+            }, 'published': '2025-02-21 23: 00: 04', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=23, tm_min=0, tm_sec=4, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Fisco'
+                }
+            ], 'author': 'Fisco', 'author_detail': {'name': 'Fisco'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-1018906'
+        },
+        {'links': [
+                {'length': '37040', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEB2N008_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018798'
+                }
+            ], 'title': "Moody's、Magniteの格付けをB1に引き上げ、見通しは安定的を維持", 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': "Moody's、Magniteの格付けをB1に引き上げ、見通しは安定的を維持"
+            }, 'published': '2025-02-21 21: 38: 16', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=21, tm_min=38, tm_sec=16, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Investing.com'
+                }
+            ], 'author': 'Investing.com', 'author_detail': {'name': 'Investing.com'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018798'
+        },
+        {'links': [
+                {'length': '22130', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEA5I05A_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018795'
+                }
+            ], 'title': 'Gray Media社、高レバレッジによりFitchが格付けを引き下げ', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': 'Gray Media社、高レバレッジによりFitchが格付けを引き下げ'
+            }, 'published': '2025-02-21 21: 36: 36', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=21, tm_min=36, tm_sec=36, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Investing.com'
+                }
+            ], 'author': 'Investing.com', 'author_detail': {'name': 'Investing.com'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018795'
+        },
+        {'links': [
+                {'length': '24083', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEA6H0CU_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018738'
+                }
+            ], 'title': 'トランプ大統領、郵便局と商務省の統合を検討', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': 'トランプ大統領、郵便局と商務省の統合を検討'
+            }, 'published': '2025-02-21 21: 14: 57', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=21, tm_min=14, tm_sec=57, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Investing.com'
+                }
+            ], 'author': 'Investing.com', 'author_detail': {'name': 'Investing.com'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018738'
+        },
+        {'links': [
+                {'length': '129402', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/asian_2_M_1440047814.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018694'
+                }
+            ], 'title': 'FTC委員長の民主党委員解任発言に上院議員が法的懸念を表明', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': 'FTC委員長の民主党委員解任発言 に上院議員が法的懸念を表明'
+            }, 'published': '2025-02-21 20: 37: 40', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=20, tm_min=37, tm_sec=40, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Investing.com'
+                }
+            ], 'author': 'Investing.com', 'author_detail': {'name': 'Investing.com'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018694'
+        },
+        {'links': [
+                {'length': '25672', 'type': 'image/jpeg', 'href': 'https:\/\/i-invdn-com.investing.com/news/LYNXMPEAB90RZ_M.jpg', 'rel': 'enclosure'
+                },
+                {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018691'
+                }
+            ], 'title': 'シネワールド、米国でのIPOと合併機会を模索中 - Bloomberg', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': 'シネワールド、米国でのIPOと合併機会を模索中 - Bloomberg'
+            }, 'published': '2025-02-21 20: 34: 23', 'published_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=21, tm_hour=20, tm_min=34, tm_sec=23, tm_wday=4, tm_yday=52, tm_isdst=0), 'authors': [
+                {'name': 'Investing.com'
+                }
+            ], 'author': 'Investing.com', 'author_detail': {'name': 'Investing.com'
+            }, 'link': 'https:\/\/jp.investing.com/news/stock-market-news/article-93CH-1018691'
+        }
+    ], 'feed': {'title': '株式市場ニュース', 'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https:\/\/jp.investing.com/rss/news_25.rss', 'value': '株式市場ニュース'
+        }, 'links': [
+            {'rel': 'alternate', 'type': 'text/html', 'href': 'https:\/\/jp.investing.com'
+            }
+        ], 'link': 'https:\/\/jp.investing.com'
+    }, 'headers': {'date': 'Sat,
+        22 Feb 2025 07: 09: 16 GMT', 'content-type': 'application/rss+xml', 'transfer-encoding': 'chunked', 'connection': 'close', 'vary': 'User-Agent', 'last-modified': 'Sat,
+        22 Feb 2025 07: 01: 46 GMT', 'etag': 'W/"f69-62eb5ae35dd91"', 'set-cookie': '__cflb=02DiuF9qvuxBvFEb2q9Qemd3EPFFTD8S8sspzf4Zq7d2C; SameSite=None; Secure; path=/; expires=Sun,
+        23-Feb-25 06: 09: 16 GMT; HttpOnly', 'cross-origin-embedder-policy': 'unsafe-none', 'cross-origin-opener-policy': 'cross-origin', 'cross-origin-resource-policy': 'cross-origin', 'content-security-policy-report-only': "default-src https: data: wss: 'unsafe-inline' 'unsafe-eval'; form-action https:; report-uri https:\/\/rbmeuulvihtwm2eltjhwimi2.httpschecker.net/report", 'content-security-policy': 'upgrade-insecure-requests; block-all-mixed-content', 'x-cache-status': 'BYPASS', 'x-environment': 'hk-prod', 'x-request-id': '4c4dadb3bfe4d2f0c84d630bb6c2672a', 'content-encoding': 'gzip', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '915d2650f82f8a7e-NRT', 'alt-svc': 'h3=":443"; ma=86400'
+    }, 'etag': 'W/"f69-62eb5ae35dd91"', 'updated': 'Sat,
+    22 Feb 2025 07: 01: 46 GMT', 'updated_parsed': time.struct_time(tm_year=2025, tm_mon=2, tm_mday=22, tm_hour=7, tm_min=1, tm_sec=46, tm_wday=5, tm_yday=53, tm_isdst=0), 'href': 'https:\/\/jp.investing.com/rss/news_25.rss', 'status': 200, 'encoding': 'utf-8', 'version': 'rss20', 'namespaces': {}
+}
