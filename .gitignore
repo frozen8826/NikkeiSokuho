@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 node_modules/
+frontend/my-app/node_modules/
 /.pnp
 .pnp.*
 .yarn/*
