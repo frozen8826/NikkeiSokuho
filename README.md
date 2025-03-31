@@ -1,4 +1,4 @@
-<h1>日経レンジ速報</h1>
+<h1>日経ちゃん</h1>
 日々の日経予想レンジを通知してくれるDiscordのアプリです。<br>
 <img src="https://github.com/user-attachments/assets/11663a3b-75d0-4b2f-b613-74478eb36824"><br>
 
