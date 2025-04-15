@@ -1,7 +1,11 @@
 <h1>日経ちゃん</h1>
+<h2>一般ユーザ機能</h2>
 日々の日経予想レンジを通知してくれるDiscordのアプリです。<br>
 <img src="https://github.com/user-attachments/assets/11663a3b-75d0-4b2f-b613-74478eb36824"><br>
 
+<h2>管理者機能</h2>
+Webアプリケーションから、クローリング時間を設定でき、アプリがクローリングする時間を変更することができます。<br>
+<img src="![image](https://github.com/user-attachments/assets/839ae832-2816-4a0e-8ad6-88fc8eec1ea1)"><br>
 
 <h1>使用技術</h1>
 <li>Python 3.10.5</li>
